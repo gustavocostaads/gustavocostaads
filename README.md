@@ -16,7 +16,7 @@
 <br>   
 <br>  
 
-## :red_square:Início - 2020 antes da pandemia:red_square:
+
 Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br>
   
 ![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
