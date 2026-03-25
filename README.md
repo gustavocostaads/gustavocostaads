@@ -12,9 +12,7 @@
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
      
-## :red_square:Histórico de Estudos:red_square:
-Decidi fazer uma transição de carreira. Atuo na área da engenharia e arquitetura, sou técnico em edificações. Tecnologia é uma área que sempre gostei desde criança.
-  
+
 <br>   
 <br>  
 
