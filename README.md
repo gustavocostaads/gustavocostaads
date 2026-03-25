@@ -28,29 +28,6 @@ Superior tecnólogo - Analista e Desenvolvimento de Sistemas - Católica EAD <br
 <br>
 <br>
   
-## :red_square:Curso DankiCode Front-End... 42% :red_square:
-
-![dankicode](https://user-images.githubusercontent.com/85446931/159808785-836fc97f-3874-40bd-8862-3f873f0fc999.png) <br>
-  
-</div>
-<br>
-<br>
-
-## :red_square:Udemy - Curso Web Moderno 40hs de 97hs:red_square::red_square:
-      
-![webmoderno2](https://user-images.githubusercontent.com/85446931/159819409-45947f86-2415-4e64-a85c-705ea769b913.png)
-
-<br>
-<br> 
-
-## :red_square:Javascript Puro com Codewars:red_square:
-      
-Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
-  
-![codewars](https://user-images.githubusercontent.com/85446931/179319240-8ba0d233-d917-410f-a4e4-9d4027ec67a1.png) <br>
-  
-<br>
-<br>
 
 ## :red_square:Pós Graduação Front-End - XP Educação (antiga IGTI):red_square:
       
@@ -59,18 +36,4 @@ Javascript Puro com Codewars [Codewars](https://www.codewars.com/) <br>
 <br>
 <br>
 
-## :red_square:Curso completo de PostgreSQL! Do Básico ao Avançado v2023! 65%:red_square:
-  
-![Udemy Postgre](https://github.com/gustavocostaads/gustavocostaads/assets/85446931/5b5effeb-df5a-43a2-89b4-73fbb554db4e)
-
-<br>
-<br>
-
-## :red_square:Curso de JavaScript e TypeScript do básico ao avançado JS/TS 25%:red_square:
-
-![javascript curso](https://github.com/user-attachments/assets/b6664aa6-d957-498e-a164-b2144e1c9fe0)
-
-
-  
-</div>
-          
+#
