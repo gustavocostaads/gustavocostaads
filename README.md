@@ -2,11 +2,7 @@
 
 
   
-<div>
-<img  align="left"  height="280" width="280" src="https://user-images.githubusercontent.com/85446931/134086685-7b629b76-9f9c-4f3e-ba3a-27162e81db55.gif">
 
-</div>
-  
 <div align="center">
 
 <br>
