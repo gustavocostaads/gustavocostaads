@@ -4,15 +4,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavocostaads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocostaads&layout=compact&theme=dracula&card_width=320" height="150" alt="top languages"/>
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
