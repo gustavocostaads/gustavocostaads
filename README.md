@@ -1,4 +1,4 @@
-<h1 align="center">Gustavo Costa</h1>
+﻿<h1 align="center">Gustavo Costa</h1>
 
 <p align="center">Desenvolvedor Full Stack | React, Node.js, TypeScript</p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### ️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
@@ -43,16 +43,16 @@
 
 ### 🎓 Formação
 
-Superior tecnólogo - Análise e Desenvolvimento de Sistemas - Católica EAD
+**Superior tecnólogo - Análise e Desenvolvimento de Sistemas - Católica EAD**
 
-![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
+<img src="https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png" width="100%" alt="Católica EAD"/>
 
 <br>
 <br>
 
-#### 🟥 Pós Graduação Front-End - XP Educação (antiga IGTI) 🟥
+**Pós Graduação Front-End - XP Educação (antiga IGTI)**
 
-![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png)
+<img src="https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png" width="100%" alt="XP Educação"/>
 
 <br>
 <br>
