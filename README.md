@@ -38,3 +38,21 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github"/>
   </a>
 </div>
+
+---
+
+### 🎓 Formação
+
+Superior tecnólogo - Análise e Desenvolvimento de Sistemas - Católica EAD
+
+![catolica2](https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png)
+
+<br>
+<br>
+
+#### 🟥 Pós Graduação Front-End - XP Educação (antiga IGTI) 🟥
+
+![xp educação](https://user-images.githubusercontent.com/85446931/179326511-50607a6d-6f3a-4599-936e-8f86f439bed8.png)
+
+<br>
+<br>
