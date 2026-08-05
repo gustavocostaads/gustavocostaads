@@ -31,16 +31,6 @@
 
 ---
 
-### 📱 Social
-
-<div align="center">
-  <a href="https://github.com/gustavocostaads" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github"/>
-  </a>
-</div>
-
----
-
 ### 🎓 Formação
 
 **Superior tecnólogo - Análise e Desenvolvimento de Sistemas - Católica EAD**
