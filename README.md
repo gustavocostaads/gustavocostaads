@@ -24,7 +24,7 @@
 
 ### 🎓 Formação
 
-**Superior tecnólogo - Análise e Desenvolvimento de Sistemas - Católica EAD**
+**Superior - Análise e Desenvolvimento de Sistemas - Católica EAD**
 
 <img src="https://user-images.githubusercontent.com/85446931/158929062-8d985725-1935-4fdc-9c54-7183a7a1496a.png" width="100%" alt="Católica EAD"/>
 
